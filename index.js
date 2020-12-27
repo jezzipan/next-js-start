@@ -1,0 +1,1 @@
+const raiz = (n) => n ** 0.5;
